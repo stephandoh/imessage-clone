@@ -10,9 +10,8 @@ function App() {
 
       <Imessage />
     </div>
+    <div></div>
   );
 }
 
 export default App;
-
-// a new comment has been added
