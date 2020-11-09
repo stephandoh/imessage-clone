@@ -15,4 +15,4 @@ function App() {
 
 export default App;
 
-// a new comment
+// a new comment has been added
