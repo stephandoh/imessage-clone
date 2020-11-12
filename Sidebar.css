@@ -38,3 +38,14 @@
 .sidebar__chats {
     overflow: scroll;
 }
+
+/* hide scrollbar from chrome, safari and opera*/
+.sidebar__chats::-webkit-scrollbar {
+    display: none;
+}
+
+/* hide scrollbar for IE, EDGE and firefox */
+.sidebar__chats {
+    -ns-overflow-style: none;  
+    scrollbar-width: none; 
+}

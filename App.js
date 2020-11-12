@@ -10,9 +10,6 @@ function App() {
 
       <Imessage />
     </div>
-    <div>
-      there will be something here
-    </div>
   );
 }
 
